@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DriverNine
-- 👀 I’m interested in learning Python
-- 🌱 I’m currently learning VB.NET
-- 💞️ I’m looking to collaborate on creating/editing web applications using Python
+- 👀 I’m interested in learning PHP, Django, Node.js, HTML, and CSS
+- 🌱 I’m currently learning CSS
+- 💞️ I’m looking to collaborate on creating/editing web applications using CSS
 - 📫 How to reach me ??
 
 <!---
